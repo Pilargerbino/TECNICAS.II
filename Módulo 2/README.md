@@ -24,7 +24,7 @@ El informe «Análisis de Gestión de Calidad – Centro Médico Palmares» exam
 
 El archivo puede ser descargado directamente mediante el siguiente atajo:
 
-[Descarga aquí el informe en PDF](TP%2520M2%2520-%2520TyHM%2520II%25202026.pdf)
+   [Descarga aquí el informe en PDF](<TP M2 - TyHM II 2026.pdf>)
 
 
 
