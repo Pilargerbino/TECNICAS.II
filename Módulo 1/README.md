@@ -1,6 +1,6 @@
 # Módulo 1: Toma de decisiones
 
-## Selección y evaluación preliminar de factibilidad del Trabajo Final de Carrera
+## Selección y evaluación preliminar de factibilidad del Proyecto Final de Estudios
 
 **Técnicas y Herramientas Modernas II · Ingeniería Industrial**  
 Facultad de Ingeniería · Universidad Nacional de Cuyo · 2026
