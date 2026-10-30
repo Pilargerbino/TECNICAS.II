@@ -2,11 +2,6 @@
 
 ## Selección y evaluación preliminar de factibilidad del Proyecto Final de Estudios
 
-**Técnicas y Herramientas Modernas II · Ingeniería Industrial**  
-Facultad de Ingeniería · Universidad Nacional de Cuyo · 2026
-
-## Descripción del trabajo
-
 Este trabajo fundamenta la selección de un **centro de almacenamiento de frío en Mendoza** como tema del Trabajo Final de Carrera. La propuesta contempla un operador logístico de terceros (**3PL**), con **papas prefritas congeladas** como caso base.
 
 El análisis utiliza información del proyecto, antecedentes técnicos y asistencia de inteligencia artificial para organizar fuentes, comparar alternativas y formular un anteproyecto. Se consideran la disponibilidad de información, la viabilidad técnica y de recursos, el ajuste con la formación del equipo, el aporte de ingeniería y la factibilidad temporal.
