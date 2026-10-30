@@ -31,4 +31,3 @@ La elección permite avanzar con el estudio de prefactibilidad. La demanda, la c
 
 📄 **[Abrir y descargar el informe en PDF](./informe_modulo_1.pdf)**
 
-Al abrir el archivo, se puede utilizar el botón de descarga de GitHub para guardarlo.
