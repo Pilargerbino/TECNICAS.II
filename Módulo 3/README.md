@@ -14,4 +14,4 @@ El informe se divide en dos partes:
 ## 📥 Descargas
 El archivo puede ser descargado directamente mediante el siguiente atajo:
 
-[Descarga aquí el informe en PDF](<M3 - TyHMII 2026.pdf>)
+[Descarga aquí el informe en PDF](<TP M3 - TyHMII 2026.pdf>)
